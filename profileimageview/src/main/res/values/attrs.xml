@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProfileImage">
+        <attr name="shape" format="string"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="borderSize" format="integer"/>
+        <attr name="roundedCorner" format="integer"/>
+        <attr name="ovalCorner" format="integer"/>
+    </declare-styleable>
+
+</resources>
