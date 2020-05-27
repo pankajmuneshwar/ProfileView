@@ -33,6 +33,4 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation project(path: ':profileimageview')
-    implementation 'com.github.pankajmuneshwar:ProfileView:-08a80c9fea-1'
-    implementation 'com.github.pankajmuneshwar:ProfileView:-SNAPSHOT'
 }
