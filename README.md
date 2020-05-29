@@ -1,7 +1,7 @@
 # ProfileView
 Profile Image View
 
-![](Screenshot_1590601305.png)
+![](border_image.png)
 
 ![](Screenshot_1590601362.png)
 
