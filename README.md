@@ -1,9 +1,7 @@
 # ProfileView
 Profile Image View
 
-![](border_image.png)
-
-![](Screenshot_1590601362.png)
+![](border_image.png)   ![](WithOut_Border.png)
 
 
 https://github.com/pankajmuneshwar/ProfileView/blob/master/Screenshot_1590601305.png
