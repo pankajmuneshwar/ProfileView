@@ -3,10 +3,7 @@ Profile Image View
 
 ![](border_image.png)   ![](WithOut_Border.png)
 
-
-https://github.com/pankajmuneshwar/ProfileView/blob/master/Screenshot_1590601305.png
-
-https://github.com/pankajmuneshwar/ProfileView/blob/master/Screenshot_1590601362.png
+<b>Features</b>
 
 
 This is main used for Profile Pic to show with border or without border
