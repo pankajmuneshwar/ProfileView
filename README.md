@@ -48,8 +48,8 @@ Step 3. Add CurveGraphView to your layout file
 ## How to customize the view.
 
 1) If you want to add border then only add app:borderSize=“2” 
-2)  Border size can be change as per requirements
-3) Can also have border colour 
+2) Border size can be change as per requirements
+3) Border colour can be change app:borderColor="@color/colorPrimaryDark" 
 
 # Can have multiple shapes
 1) app:shape="circle"
